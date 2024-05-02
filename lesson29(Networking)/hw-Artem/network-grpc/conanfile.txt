@@ -1,0 +1,9 @@
+[requires]
+grpc/1.50.1
+
+[generators]
+cmake
+
+[imports]
+bin, protoc* -> ./build_tools
+bin, grpc_cpp_plugin* -> ./build_tools

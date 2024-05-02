@@ -1,0 +1,39 @@
+27-06-2023 16:44:10   MSG: ---NEW SESSION STARTED---
+27-06-2023 16:44:10   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 16:44:21   MSG: New connection
+27-06-2023 16:44:29   MSG: New connection
+27-06-2023 16:45:36   MSG: ---NEW SESSION STARTED---
+27-06-2023 16:45:36   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 16:45:43   MSG: New connection
+27-06-2023 19:35:02   MSG: ---NEW SESSION STARTED---
+27-06-2023 19:35:02   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 19:35:19   MSG: New connection
+27-06-2023 19:35:22   MSG: New connection
+27-06-2023 20:20:53   MSG: ---NEW SESSION STARTED---
+27-06-2023 20:20:53   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 20:21:04   MSG: New connection
+27-06-2023 20:21:13   MSG: New connection
+27-06-2023 20:21:16   MSG: New connection
+27-06-2023 20:24:03   MSG: ---NEW SESSION STARTED---
+27-06-2023 20:24:03   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 20:24:07   MSG: New connection
+27-06-2023 20:24:12   MSG: New connection
+27-06-2023 20:24:27   MSG: New connection
+27-06-2023 20:45:46   MSG: ---NEW SESSION STARTED---
+27-06-2023 20:45:46   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 20:45:53   MSG: New connection
+27-06-2023 20:47:26   MSG: ---NEW SESSION STARTED---
+27-06-2023 20:47:26   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 20:47:31   MSG: New connection
+27-06-2023 22:09:56   MSG: ---NEW SESSION STARTED---
+27-06-2023 22:09:56   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 22:10:05   MSG: New connection
+27-06-2023 22:13:24   MSG: ---NEW SESSION STARTED---
+27-06-2023 22:13:24   MSG: Server listening on 127.0.0.1:8081
+27-06-2023 22:13:29   MSG: New connection
+28-06-2023 16:57:57   MSG: ---NEW SESSION STARTED---
+28-06-2023 16:57:57   MSG: Server listening on 127.0.0.1:8081
+28-06-2023 17:09:22   MSG: ---NEW SESSION STARTED---
+28-06-2023 17:09:22   MSG: Server listening on 127.0.0.1:8081
+28-06-2023 17:09:26   MSG: New connection
+28-06-2023 17:09:30   MSG: New connection

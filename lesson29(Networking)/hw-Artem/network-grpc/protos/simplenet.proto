@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package simplenet;
+
+// Объявление сервиса "Приветствие"
+service Greeter{
+	// Отправляет приветствие
+	rpc HelloMsg(HelloRequest) returns(HelloReply) {}
+}
+
+// Сообщение содержит имя запроса
+message HelloRequest{
+	string name = 1;
+}
+
+// Сообщение содержит текст ответа
+message HelloReply{
+	string message = 1;
+	string datetime = 2;
+}

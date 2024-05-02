@@ -1,0 +1,4 @@
+Testing text some text
+another text at new line
+third string in textfile
+the end.
